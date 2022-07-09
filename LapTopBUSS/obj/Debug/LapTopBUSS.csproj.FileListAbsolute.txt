@@ -1,0 +1,13 @@
+D:\PROJECT 3\WebBanLapTopDT\LapTopBUSS\bin\Debug\LapTopBUSS.dll.config
+D:\PROJECT 3\WebBanLapTopDT\LapTopBUSS\bin\Debug\LapTopBUSS.dll
+D:\PROJECT 3\WebBanLapTopDT\LapTopBUSS\bin\Debug\LapTopBUSS.pdb
+D:\PROJECT 3\WebBanLapTopDT\LapTopBUSS\bin\Debug\LapTopDAO.dll
+D:\PROJECT 3\WebBanLapTopDT\LapTopBUSS\bin\Debug\LapTopOBJ.dll
+D:\PROJECT 3\WebBanLapTopDT\LapTopBUSS\bin\Debug\LapTopDAO.pdb
+D:\PROJECT 3\WebBanLapTopDT\LapTopBUSS\bin\Debug\LapTopDAO.dll.config
+D:\PROJECT 3\WebBanLapTopDT\LapTopBUSS\bin\Debug\LapTopOBJ.pdb
+D:\PROJECT 3\WebBanLapTopDT\LapTopBUSS\obj\Debug\LapTopBUSS.csprojAssemblyReference.cache
+D:\PROJECT 3\WebBanLapTopDT\LapTopBUSS\obj\Debug\LapTopBUSS.csproj.CoreCompileInputs.cache
+D:\PROJECT 3\WebBanLapTopDT\LapTopBUSS\obj\Debug\LapTopBUSS.csproj.CopyComplete
+D:\PROJECT 3\WebBanLapTopDT\LapTopBUSS\obj\Debug\LapTopBUSS.dll
+D:\PROJECT 3\WebBanLapTopDT\LapTopBUSS\obj\Debug\LapTopBUSS.pdb

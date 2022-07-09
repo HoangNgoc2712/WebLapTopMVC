@@ -1,0 +1,5 @@
+D:\PROJECT 3\WebBanLapTopDT\LapTopOBJ\bin\Debug\LapTopOBJ.dll
+D:\PROJECT 3\WebBanLapTopDT\LapTopOBJ\bin\Debug\LapTopOBJ.pdb
+D:\PROJECT 3\WebBanLapTopDT\LapTopOBJ\obj\Debug\LapTopOBJ.csproj.CoreCompileInputs.cache
+D:\PROJECT 3\WebBanLapTopDT\LapTopOBJ\obj\Debug\LapTopOBJ.dll
+D:\PROJECT 3\WebBanLapTopDT\LapTopOBJ\obj\Debug\LapTopOBJ.pdb
